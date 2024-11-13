@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC CMakeFiles/a.out.dir/text.cpp.o -o ../out/a.out   -L/home/user/MyTinyMuduo/myTinymuduo/lib  -Wl,-rpath,/home/user/MyTinyMuduo/myTinymuduo/lib ../lib/libmuduotext.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/server.cpp.o -o ../../../out/server   -L/home/user/MyTinyMuduo/myTinymuduo/udp_trans/demo/udp_server  -Wl,-rpath,/home/user/MyTinyMuduo/myTinymuduo/udp_trans/demo/udp_server ../../../lib/libudp_server.a 

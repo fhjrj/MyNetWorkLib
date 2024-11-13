@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/clniet.dir/clinet.cpp.o -o ../../../out/clniet   -L/home/user/MyTinyMuduo/myTinymuduo/udp_trans/demo/udp_server  -Wl,-rpath,/home/user/MyTinyMuduo/myTinymuduo/udp_trans/demo/udp_server ../../../lib/libudp_server.a 

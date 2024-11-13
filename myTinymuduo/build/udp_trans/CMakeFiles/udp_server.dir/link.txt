@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libudp_server.a CMakeFiles/udp_server.dir/data_segment.cpp.o CMakeFiles/udp_server.dir/packet_statistics.cpp.o CMakeFiles/udp_server.dir/sliding_window.cpp.o CMakeFiles/udp_server.dir/udp_client.cpp.o CMakeFiles/udp_server.dir/udp_server.cpp.o
+/usr/bin/ranlib ../../lib/libudp_server.a
