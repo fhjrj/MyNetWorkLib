@@ -1,7 +1,7 @@
 #include "HttpResponse.h"
 #include "Buffer.h"
 #include <string.h>
-
+//所有消息储存部分都是以Buffer.h进行
 void HttpRespne::appendToBuffer(Buffer* output) const{
     char buf[32];
   snprintf(buf, sizeof buf, "HTTP/1.1 %d ", statusCode_);
